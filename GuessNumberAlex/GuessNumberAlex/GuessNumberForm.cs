@@ -22,23 +22,33 @@ namespace GuessNumberAlex
             this.lblAnswer.Hide();
             this.picAnswer.Hide();
 
-           //declare constants and variables
-            const int Correct_Number = 6;
-            int numRandom;
+            //declare constants and variables
+            int correctGuess;
+            const int MIN_NUM = 1;
+            const int MAX_NUM = 10;
+            
+            
+            Random randomNumberGenerator = new Random();
+
+            //generate the random number
+            correctGuess = randomNumberGenerator.Next(MIN_NUM, MAX_NUM + 1);
+
+            //assign the random number to a label
+            lblAnswer = Convert.ToString(txtGuess);
 
             //get the guess number from the textbox
-            numRandom = int.Parse(txtGuess.Text);
+            correctGuess = int.Parse(txtGuess.Text);
 
-            //if the number guessed is 6, display you guessed correctly
             this.lblAnswer.Show();
             this.picAnswer.Show();
 
-            if (numRandom == Correct_Number)
+            if (correctGuess == correctGuess) ;
             {
                 this.lblAnswer.Text = "You guessed correctly";
                 this.picAnswer.Image = Properties.Resources.check;
             }
             else
+
             {
                 this.lblAnswer.Show();
                 this.picAnswer.Show();

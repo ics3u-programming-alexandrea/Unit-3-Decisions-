@@ -8,3 +8,12 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 3 (Decisions)\Gu
 N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 3 (Decisions)\GuessNumberAlex\GuessNumberAlex\obj\Debug\GuessNumberAlex.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 3 (Decisions)\GuessNumberAlex\GuessNumberAlex\obj\Debug\GuessNumberAlex.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 3 (Decisions)\GuessNumberAlex\GuessNumberAlex\obj\Debug\GuessNumberAlex.pdb
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberAlex\GuessNumberAlex\bin\Debug\GuessNumberAlex.exe.config
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberAlex\GuessNumberAlex\bin\Debug\GuessNumberAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberAlex\GuessNumberAlex\bin\Debug\GuessNumberAlex.pdb
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberAlex\GuessNumberAlex\obj\Debug\GuessNumberAlex.csprojAssemblyReference.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberAlex\GuessNumberAlex\obj\Debug\GuessNumberAlex.frmGuessNumber.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberAlex\GuessNumberAlex\obj\Debug\GuessNumberAlex.Properties.Resources.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberAlex\GuessNumberAlex\obj\Debug\GuessNumberAlex.csproj.GenerateResource.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberAlex\GuessNumberAlex\obj\Debug\GuessNumberAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberAlex\GuessNumberAlex\obj\Debug\GuessNumberAlex.pdb
