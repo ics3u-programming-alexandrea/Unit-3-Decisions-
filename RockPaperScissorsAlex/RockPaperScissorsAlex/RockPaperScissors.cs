@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ChocolateBoxesAlex
+namespace RockPaperScissorsAlex
 {
-    static class ChocolateBoxes
+    static class Program
     {
         /// <summary>
         /// The main entry point for the application.
@@ -16,7 +16,7 @@ namespace ChocolateBoxesAlex
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmChocolateBoxes());
+            Application.Run(new RockPaperScissorsForm());
         }
     }
 }

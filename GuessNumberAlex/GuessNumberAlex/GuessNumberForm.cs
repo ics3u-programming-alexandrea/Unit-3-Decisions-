@@ -32,8 +32,10 @@ namespace GuessNumberAlex
 
             //declare constants and variables
             int correctGuess;
+            int userGuess;
             const int MIN_NUM = 1;
             const int MAX_NUM = 10;
+
             
             
             Random randomNumberGenerator = new Random();

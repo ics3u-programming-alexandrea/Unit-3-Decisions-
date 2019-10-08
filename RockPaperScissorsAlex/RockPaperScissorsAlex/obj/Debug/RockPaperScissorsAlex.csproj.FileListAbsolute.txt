@@ -1,0 +1,4 @@
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\RockPaperScissorsAlex\RockPaperScissorsAlex\obj\Debug\RockPaperScissorsAlex.csprojAssemblyReference.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\RockPaperScissorsAlex\RockPaperScissorsAlex\obj\Debug\RockPaperScissorsAlex.Properties.Resources.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\RockPaperScissorsAlex\RockPaperScissorsAlex\obj\Debug\RockPaperScissorsAlex.frmRockPaperScissors.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\RockPaperScissorsAlex\RockPaperScissorsAlex\obj\Debug\RockPaperScissorsAlex.csproj.GenerateResource.cache
