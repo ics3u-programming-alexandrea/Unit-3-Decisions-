@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{16A92184-6EFE-470F-8297-6B9A9861A2D2}</ProjectGuid>
+    <ProjectGuid>{1A0312EF-0DFE-45A2-9F81-66A981CD7E20}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>ChocolateBoxesAlex</RootNamespace>
     <AssemblyName>ChocolateBoxesAlex</AssemblyName>
@@ -54,9 +54,6 @@
     </Compile>
     <Compile Include="ChocolateBoxes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="ChocolateBoxesForm.resx">
-      <DependentUpon>ChocolateBoxesForm.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -65,7 +62,6 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -79,15 +75,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\j.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\o.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\j.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

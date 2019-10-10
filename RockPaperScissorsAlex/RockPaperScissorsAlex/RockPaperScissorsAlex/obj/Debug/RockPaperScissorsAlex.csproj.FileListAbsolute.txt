@@ -1,9 +1,0 @@
-C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\RockPaperScissorsAlex\RockPaperScissorsAlex\RockPaperScissorsAlex\bin\Debug\RockPaperScissorsAlex.exe.config
-C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\RockPaperScissorsAlex\RockPaperScissorsAlex\RockPaperScissorsAlex\bin\Debug\RockPaperScissorsAlex.exe
-C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\RockPaperScissorsAlex\RockPaperScissorsAlex\RockPaperScissorsAlex\bin\Debug\RockPaperScissorsAlex.pdb
-C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\RockPaperScissorsAlex\RockPaperScissorsAlex\RockPaperScissorsAlex\obj\Debug\RockPaperScissorsAlex.csprojAssemblyReference.cache
-C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\RockPaperScissorsAlex\RockPaperScissorsAlex\RockPaperScissorsAlex\obj\Debug\RockPaperScissorsAlex.Properties.Resources.resources
-C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\RockPaperScissorsAlex\RockPaperScissorsAlex\RockPaperScissorsAlex\obj\Debug\RockPaperScissorsAlex.frmRockPaperScissors.resources
-C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\RockPaperScissorsAlex\RockPaperScissorsAlex\RockPaperScissorsAlex\obj\Debug\RockPaperScissorsAlex.csproj.GenerateResource.cache
-C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\RockPaperScissorsAlex\RockPaperScissorsAlex\RockPaperScissorsAlex\obj\Debug\RockPaperScissorsAlex.exe
-C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\RockPaperScissorsAlex\RockPaperScissorsAlex\RockPaperScissorsAlex\obj\Debug\RockPaperScissorsAlex.pdb

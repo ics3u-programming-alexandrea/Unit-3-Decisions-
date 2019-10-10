@@ -73,6 +73,16 @@ namespace GuessNumberAlex.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap F2qRmLhRnmebc8jJAUjr_GuessTheNumber_3x {
+            get {
+                object obj = ResourceManager.GetObject("F2qRmLhRnmebc8jJAUjr_GuessTheNumber@3x", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap red {
             get {
                 object obj = ResourceManager.GetObject("red", resourceCulture);
