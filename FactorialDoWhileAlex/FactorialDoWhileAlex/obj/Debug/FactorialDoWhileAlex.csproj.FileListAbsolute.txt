@@ -1,0 +1,9 @@
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileAlex\FactorialDoWhileAlex\bin\Debug\FactorialDoWhileAlex.exe.config
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileAlex\FactorialDoWhileAlex\bin\Debug\FactorialDoWhileAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileAlex\FactorialDoWhileAlex\bin\Debug\FactorialDoWhileAlex.pdb
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileAlex\FactorialDoWhileAlex\obj\Debug\FactorialDoWhileAlex.csprojAssemblyReference.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileAlex\FactorialDoWhileAlex\obj\Debug\FactorialDoWhileAlex.frmFactorial.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileAlex\FactorialDoWhileAlex\obj\Debug\FactorialDoWhileAlex.Properties.Resources.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileAlex\FactorialDoWhileAlex\obj\Debug\FactorialDoWhileAlex.csproj.GenerateResource.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileAlex\FactorialDoWhileAlex\obj\Debug\FactorialDoWhileAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\FactorialDoWhileAlex\FactorialDoWhileAlex\obj\Debug\FactorialDoWhileAlex.pdb

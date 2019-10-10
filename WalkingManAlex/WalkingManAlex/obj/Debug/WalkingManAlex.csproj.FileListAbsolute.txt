@@ -1,0 +1,9 @@
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManAlex\WalkingManAlex\bin\Debug\WalkingManAlex.exe.config
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManAlex\WalkingManAlex\bin\Debug\WalkingManAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManAlex\WalkingManAlex\bin\Debug\WalkingManAlex.pdb
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManAlex\WalkingManAlex\obj\Debug\WalkingManAlex.csprojAssemblyReference.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManAlex\WalkingManAlex\obj\Debug\WalkingManAlex.Properties.Resources.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManAlex\WalkingManAlex\obj\Debug\WalkingManAlex.frmWalkingMan.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManAlex\WalkingManAlex\obj\Debug\WalkingManAlex.csproj.GenerateResource.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManAlex\WalkingManAlex\obj\Debug\WalkingManAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManAlex\WalkingManAlex\obj\Debug\WalkingManAlex.pdb
