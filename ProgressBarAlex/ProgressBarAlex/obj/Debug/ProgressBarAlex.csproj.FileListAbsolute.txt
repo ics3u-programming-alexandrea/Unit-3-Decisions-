@@ -1,0 +1,9 @@
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\ProgressBarAlex\ProgressBarAlex\bin\Debug\ProgressBarAlex.exe.config
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\ProgressBarAlex\ProgressBarAlex\bin\Debug\ProgressBarAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\ProgressBarAlex\ProgressBarAlex\bin\Debug\ProgressBarAlex.pdb
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\ProgressBarAlex\ProgressBarAlex\obj\Debug\ProgressBarAlex.csprojAssemblyReference.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\ProgressBarAlex\ProgressBarAlex\obj\Debug\ProgressBarAlex.frmProgressBar.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\ProgressBarAlex\ProgressBarAlex\obj\Debug\ProgressBarAlex.Properties.Resources.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\ProgressBarAlex\ProgressBarAlex\obj\Debug\ProgressBarAlex.csproj.GenerateResource.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\ProgressBarAlex\ProgressBarAlex\obj\Debug\ProgressBarAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\ProgressBarAlex\ProgressBarAlex\obj\Debug\ProgressBarAlex.pdb
