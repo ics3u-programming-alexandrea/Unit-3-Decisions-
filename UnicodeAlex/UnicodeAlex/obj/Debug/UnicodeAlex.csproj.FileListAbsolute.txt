@@ -1,0 +1,9 @@
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeAlex\UnicodeAlex\bin\Debug\UnicodeAlex.exe.config
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeAlex\UnicodeAlex\bin\Debug\UnicodeAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeAlex\UnicodeAlex\bin\Debug\UnicodeAlex.pdb
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeAlex\UnicodeAlex\obj\Debug\UnicodeAlex.csprojAssemblyReference.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeAlex\UnicodeAlex\obj\Debug\UnicodeAlex.frmUnicode.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeAlex\UnicodeAlex\obj\Debug\UnicodeAlex.Properties.Resources.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeAlex\UnicodeAlex\obj\Debug\UnicodeAlex.csproj.GenerateResource.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeAlex\UnicodeAlex\obj\Debug\UnicodeAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\UnicodeAlex\UnicodeAlex\obj\Debug\UnicodeAlex.pdb
