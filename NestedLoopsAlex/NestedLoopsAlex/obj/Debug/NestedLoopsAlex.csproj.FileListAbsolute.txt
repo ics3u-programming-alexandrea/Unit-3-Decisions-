@@ -1,0 +1,9 @@
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsAlex\NestedLoopsAlex\bin\Debug\NestedLoopsAlex.exe.config
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsAlex\NestedLoopsAlex\bin\Debug\NestedLoopsAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsAlex\NestedLoopsAlex\bin\Debug\NestedLoopsAlex.pdb
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsAlex\NestedLoopsAlex\obj\Debug\NestedLoopsAlex.csprojAssemblyReference.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsAlex\NestedLoopsAlex\obj\Debug\NestedLoopsAlex.frmNestedLoops.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsAlex\NestedLoopsAlex\obj\Debug\NestedLoopsAlex.Properties.Resources.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsAlex\NestedLoopsAlex\obj\Debug\NestedLoopsAlex.csproj.GenerateResource.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsAlex\NestedLoopsAlex\obj\Debug\NestedLoopsAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\NestedLoopsAlex\NestedLoopsAlex\obj\Debug\NestedLoopsAlex.pdb
