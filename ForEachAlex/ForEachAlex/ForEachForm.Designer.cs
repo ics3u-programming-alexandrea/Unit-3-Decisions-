@@ -42,6 +42,7 @@
             this.btnClick.TabIndex = 0;
             this.btnClick.Text = "Click";
             this.btnClick.UseVisualStyleBackColor = true;
+            this.btnClick.Click += new System.EventHandler(this.BtnClick_Click);
             // 
             // lblClick
             // 
@@ -52,6 +53,7 @@
             this.lblClick.Size = new System.Drawing.Size(47, 20);
             this.lblClick.TabIndex = 1;
             this.lblClick.Text = "Click";
+            this.lblClick.Click += new System.EventHandler(this.LblClick_Click);
             // 
             // lstClick
             // 
