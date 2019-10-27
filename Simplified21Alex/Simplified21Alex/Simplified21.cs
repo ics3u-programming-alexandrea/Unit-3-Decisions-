@@ -4,9 +4,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace Simplified21Alex
 {
-    static class Program
+    static class Simplified21
     {
         /// <summary>
         /// The main entry point for the application.
@@ -16,7 +17,7 @@ namespace Simplified21Alex
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmSimplified21());
         }
     }
 }
