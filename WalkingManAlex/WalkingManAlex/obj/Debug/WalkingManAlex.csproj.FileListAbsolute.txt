@@ -7,3 +7,13 @@ C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManAlex\Walki
 C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManAlex\WalkingManAlex\obj\Debug\WalkingManAlex.csproj.GenerateResource.cache
 C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManAlex\WalkingManAlex\obj\Debug\WalkingManAlex.exe
 C:\Users\User\Documents\ICS3U Programming\Unit-3-Decisions-\WalkingManAlex\WalkingManAlex\obj\Debug\WalkingManAlex.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 3 (Decisions)\WalkingManAlex\WalkingManAlex\bin\Debug\WalkingManAlex.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 3 (Decisions)\WalkingManAlex\WalkingManAlex\bin\Debug\WalkingManAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 3 (Decisions)\WalkingManAlex\WalkingManAlex\bin\Debug\WalkingManAlex.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 3 (Decisions)\WalkingManAlex\WalkingManAlex\obj\Debug\WalkingManAlex.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 3 (Decisions)\WalkingManAlex\WalkingManAlex\obj\Debug\WalkingManAlex.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 3 (Decisions)\WalkingManAlex\WalkingManAlex\obj\Debug\WalkingManAlex.frmWalkingMan.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 3 (Decisions)\WalkingManAlex\WalkingManAlex\obj\Debug\WalkingManAlex.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 3 (Decisions)\WalkingManAlex\WalkingManAlex\obj\Debug\WalkingManAlex.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 3 (Decisions)\WalkingManAlex\WalkingManAlex\obj\Debug\WalkingManAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 3 (Decisions)\WalkingManAlex\WalkingManAlex\obj\Debug\WalkingManAlex.pdb
